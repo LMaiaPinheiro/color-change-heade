@@ -1,0 +1,13 @@
+{
+  "manifest_version":3,
+  "version": "0.0.1",
+  "name": "Color Change Header",
+  "description":"Extenção que altera cor da barra de navegação do Site OBoticário",
+  "author":"Lucas Pinheiro",
+  "permissions": ["activeTab", "scripting"],
+  "action":{
+    "default_title":"Altere a cor",
+    "default_popup":"index.html"
+
+  }
+}
